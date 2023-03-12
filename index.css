@@ -3,6 +3,7 @@ body {
 }
 
 #container {
+    background-color: bisque;
     position: absolute;    
     width: 400px;    
     border: 2px solid black;
